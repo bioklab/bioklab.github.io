@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ke Liu's personal website"
+title                    : "BioKLab"
 title_separator          : "-"
 name                     : &name "Ke Liu"
 description              : &description "personal description"
